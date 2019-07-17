@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Customers" max_length="40" name="x_58872_needit_customers" type="collection">
+        <element label="CustomerID" max_length="3" name="customerid" type="integer"/>
+        <element label="CustomerName" max_length="32" name="customername" type="string"/>
+    </element>
+</database>
